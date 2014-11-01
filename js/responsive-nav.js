@@ -2,7 +2,7 @@ jQuery(document).ready(function(){
 	
 	
 	jQuery('#nav-button').click(function() {
-			jQuery('#options').togglle(300);
+			jQuery('#options').toggle(300);
 	});
 	
 	if ( jQuery(window).width() < 959) {
