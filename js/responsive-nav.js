@@ -2,9 +2,7 @@ jQuery(document).ready(function(){
 	
 	
 	jQuery('#nav-button').click(function() {
-			jQuery('#options').show();
-	},function() {
-			jQuery('#options').hide();
+			jQuery('#options').togglle(300);
 	});
 	
 	if ( jQuery(window).width() < 959) {
