@@ -99,7 +99,7 @@ ul#filters { background:#171717; margin:0 10px; width:620px;}
 .white-right:before, .white-right2:before {content:''; height:0; width:0; border-width:12px 12px 12px 12px; border-style:solid; border-color:rgba(251,251,251,0) rgba(255,255,255,0) rgba(255,255,255,1) rgba(255,255,255,0); position:absolute; top:124px; margin-left:40px; left:0; }
 .white-right2:before {top:313px; }
 
-h1#logo { position:relative; float:left; margin-top:26px; margin-left:10px; margin-bottom:26px; width:235px; height:28px; z-index:1 }
+h1#logo { position:relative; float:left; margin-top:26px; margin-left:10px; margin-bottom:26px; width:200px; height:28px; z-index:1 }
 #nav-button {display:block; background:#171717; float:right; padding:29px 30px 30px 30px; text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25); width:26px; margin:0 auto; margin-right:10px; cursor:pointer; }
 .nav-bar {background-color:#f5f5f5; border-radius:1px; box-shadow:0 1px 0 rgba(0, 0, 0, 0.25); display:block; width:25px; height:3px; margin:3px auto; }
 #options { display:none; /*position:absolute; top:80px;*/ }
